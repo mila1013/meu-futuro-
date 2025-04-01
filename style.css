@@ -1,16 +1,16 @@
 .cabeçalho{
-    background-color: aquamarine;
-    color: black;
-    text-align: center;
-    padding: 15px;
-    
-    }
-    .body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(12, 206, 231);
+text-align: center;
+padding: 15px;
+
+}
+.body{
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding: 0;
-    }
-    .img{
-    max-width: 100%;
-    height: auto;
-    }
+margin:0;
+padding:0;
+}
+.img{
+    max-width:50%;
+height: auto;
+}
