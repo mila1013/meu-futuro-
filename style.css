@@ -1,6 +1,6 @@
 .cabeçalho{
     background-color: rgb(50, 209, 161);
-    color: rgb(12, 206, 231);
+    color: rgb(30, 32, 32);
 text-align: center;
 padding: 15px;
 
@@ -11,6 +11,6 @@ margin:0;
 padding:0;
 }
 .img{
-    max-width:50%;
+    max-width:100%;
 height: auto;
 }
